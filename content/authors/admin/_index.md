@@ -53,8 +53,7 @@ email: dmandara@purdue.edu
 ---
 I am working on taking over ML and AI by accelerating the tree traversals. Of course not, I'm just kidding! Or maybe not - you never know  ¯\_(ツ)\_/¯. 
 
-
-My actual research interests span Parallel Computing, High-Performance Computing, Databases, and Compilers. I'm working on mapping applications to a particular tree traversal interfaced by Ray-Tracing cores of Nvidia GPUs, with my Ph.D. advisor <a href="https://engineering.purdue.edu/~milind/" target="_blank">Prof. Milind Kulkarni</a>.
+My actual research interests span Parallel Computing, High-Performance Computing, Databases, and Compilers. I'm working on mapping applications to a particular tree traversal accelerated by Ray-Tracing cores of Nvidia GPUs. <a href="https://engineering.purdue.edu/~milind/" target="_blank">Prof. Milind Kulkarni</a> is my Ph.D. advisor. 
 						
 
 ```
