@@ -52,7 +52,7 @@ title: Durga Keerthi Mandarapu
 first_name: Alice
 email: ""
 ---
-I am working on taking over ML and AI by accelerating the tree traversals. Of course not, I'm just kidding! Or maybe not - you never know  ¯\_(ツ)\_/¯. <br>
+I am working on taking over ML and AI by accelerating the tree traversals. Of course not, I'm just kidding! Or maybe not - you never know  ¯\_(ツ)\_/¯. </br>
 My actual research interests span Parallel Computing, High-Performance Computing, Databases, and Compilers. I'm working on mapping applications to a particular tree traversal interfaced by Ray-Tracing cores of Nvidia GPUs. 
 						
 
