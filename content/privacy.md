@@ -1,15 +1,19 @@
 ---
-title: Privacy Policy
-date: '2018-06-28T00:00:00+01:00'
+title: Service
+date: 2018-06-28T00:00:00+01:00
+summary: ""
 draft: true
-share: false
-commentable: false
 editable: false
-
-# Optional header image (relative to `static/media/` folder).
 header:
-  caption: ''
-  image: ''
+  caption: ""
+  image: ""
+commentable: false
+share: false
 ---
-
-Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+<ul style="list-style-type: none">
+								<li>Student Volunteer, PLDI 2023</li>
+								<li>Student Volunteer, SOSC 2019</li>
+								<li>EML Web Coordinator, IIT Hyderabad</li>
+								<li>Vidyadhaan Coordinator, National Servie Scheme</li>
+								<li>Web Coordinator, IIT Hyderabad Alumni Cell</li>
+							</ul>
